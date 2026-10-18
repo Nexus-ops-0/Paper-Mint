@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.next-local-dev/
+.next-*/
+out/
+.env*
+!.env.example
+*.tsbuildinfo

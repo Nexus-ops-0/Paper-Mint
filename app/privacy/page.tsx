@@ -31,8 +31,7 @@ export default function Page() {
       <h2>Site operations</h2>
       <p>
         Your hosting provider may process basic technical request data to serve
-        the website and protect it from abuse. This starter project does not
-        include analytics or advertising trackers.
+        the website and protect it from abuse.PaperMint uses Google Analytics (measurement ID G-B08GKF3PT6) to understand website usage. Google may collect information such as browser, device, and page activity. Invoice and receipt details are processed in your browser and are not intentionally sent to Google Analytics.
       </p>
       <h2>Admin area</h2>
       <p>
